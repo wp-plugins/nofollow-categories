@@ -2,7 +2,7 @@
 Contributors: jonkemp
 Tags: nofollow, seo, google, category, categories, pagerank
 Requires at least: 2.5.1
-Tested up to: 2.7
+Tested up to: 2.7.1
 
 Adds the "nofollow" rel attribute to category links.
 
